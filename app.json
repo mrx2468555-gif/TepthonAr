@@ -21,7 +21,7 @@
     },
     "BOT_TOKEN": {
       "description": "تـــوكـــن البـــوت - من بـوت فـاذر〔 @Botfather 〕..",
-      "value": ""
+      "value": "5865252474:AAELq7ilEYE0RxdqGdp9hPJjYUTDGjyO26U"
     },
     "HEROKU_API": {
       "description": "كـــود مفتـــاح هيروكـــو - تروح ع الرابـط » https://dashboard.heroku.com/account  ع آخـر خانـة وتنسـخ الكـود لهنـا",
