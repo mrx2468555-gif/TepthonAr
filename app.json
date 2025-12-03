@@ -9,15 +9,15 @@
   "env": {
     "API_ID": {
       "description": "كـود أيبـي أيـدي〔 App id 〕لا تغيرهـا",
-      "value": "27455984"
+      "value": "26862344"
     },
     "API_HASH": {
       "description": "كـود أيبـي هـاش〔 Api hash 〕..لا تغيرهـا",
-      "value": "62d5f68ce2e9189636967120220f5755"
+      "value": "5650e0b8d2f91adb54e1a6647431e182"
     },
     "SESSION": {
       "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن بـوت تيرمكــس",
-      "value": ""
+      "value": "1BJWap1sBu6e0JBr5j07kKGHQAi9amaxwgnDJAzQIsAj3ohhF9gekVosfCedumFE35RT7NJbTvUymolXxSHnKnakLeAEKm-x0kEyyz3NE1GhLTuLBCm1zBV8XaQDOBCG5cxwd0cDkmK99q86bklCv2l3UtlJxs9XnbhU-rGo5kdeCb90Txcgto-YtWSpnVjfX5BRJ-yUTszGEDlLSTz5pWade7XDZ0pE9PXwaPZnvWYgu-ZBRSgRyo1OGfpsKFBqb-yOei597r2rXd1EPqk53tlp4hRHk62EBrc2OegDXWEyAaf9oOUHx-FWug6m9Ppp_xLiZeP6baCJTXela6WCow5Jhrc4oi5U="
     },
     "BOT_TOKEN": {
       "description": "تـــوكـــن البـــوت - من بـوت فـاذر〔 @Botfather 〕..",
